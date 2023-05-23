@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/pic24fj128ga010_pim/production/Zad4a.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>132</used>
+      <free>8060</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>131322</length>
+      <used>10428</used>
+      <free>120894</free>
+    </memory>
+  </executable>
+</project>
